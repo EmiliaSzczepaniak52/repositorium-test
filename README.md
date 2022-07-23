@@ -1,1 +1,2 @@
 # repositorium-test
+Opis
